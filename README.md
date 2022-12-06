@@ -11,7 +11,7 @@
   ![](https://img.shields.io/badge/-Redux-593D88?style=flat&logo=Redux)
   ![](https://img.shields.io/badge/-Git-E84D31?style=flat-square&logo=git&logoColor=ffffff)
   ![](https://img.shields.io/badge/-Tailwind%20CSS-0EA5E9?style=flat&logo=Tailwind%20CSS)
-  ![](https://img.shields.io/badge/CHAKRA-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white)
+  ![](https://img.shields.io/badge/Chakra%20UI-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white)
   ![](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
   ![](https://img.shields.io/badge/-Styled%20Components-F79BE0?style=flat-square&logo=styled-components&logoColor=000)
   ![](https://img.shields.io/badge/-SCSS-CF649A?style=flat-square&logo=sass&logoColor=ffffff)
