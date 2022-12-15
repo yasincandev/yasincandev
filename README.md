@@ -7,6 +7,7 @@
 
   ![](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
   ![](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+  ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
   ![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
   ![](https://img.shields.io/badge/-Next.js-010100?style=flat-square&logo=next.js&logoColor=ffffff)
   ![](https://img.shields.io/badge/-Redux-593D88?style=flat&logo=Redux)
@@ -17,7 +18,7 @@
   ![](https://img.shields.io/badge/-Styled%20Components-F79BE0?style=flat-square&logo=styled-components&logoColor=000)
   ![](https://img.shields.io/badge/-SCSS-CF649A?style=flat-square&logo=sass&logoColor=ffffff)
   ![](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
-
+  ![](https://img.shields.io/badge/GraphQl-E10098?&styleflat&logo=GraphQL&logoColor=white)
 
 <p>
 <a href="https://github.com/AVS1508">
