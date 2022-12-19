@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Yasin Can</h1>
-<h3 align="center">A passionate jr. frontend developer from Turkey.</h3>
+# 💫 About Me:  
+Self-taught junior frontend developer with a passion for creating intuitive user experiences. Constantly improving skills and pushing boundaries on the web.
 
-<h2 align="center"> Currently developing with: </h2>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasincandev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yasincandev) [![Outlook](https://img.shields.io/badge/-yasiincan@outlook.com-0077B5?style=flat-square&logo=Outlook&logoColor=white)](https://mailto:yasiincan@outlook.com)
 
-<h3>Tech Stacks </h3>
+
+# 💻 Tech Stack:
 
   ![](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
   ![](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -20,20 +22,11 @@
   ![](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
   ![](https://img.shields.io/badge/GraphQl-E10098?&styleflat&logo=GraphQL&logoColor=white)
 
-<p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasincandev&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yasincandev&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yasincandev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yasincandev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasincandev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/yasincan96"><img src="https://img.shields.io/badge/-Yasin%20Can-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:yasiincan@outlook.com"><img src="https://img.shields.io/badge/-yasiincan@outlook.com-0077B5?style=flat-square&logo=Outlook&logoColor=white"/></a>
-
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasincandev&label=Profile%20views&color=0e75b6&style=flat" alt="yasincandev" /> </p>
