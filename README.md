@@ -21,12 +21,5 @@ Self-taught junior frontend developer with a passion for creating intuitive user
   ![](https://img.shields.io/badge/-SCSS-CF649A?style=flat-square&logo=sass&logoColor=ffffff)
   ![](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
   ![](https://img.shields.io/badge/GraphQl-E10098?&styleflat&logo=GraphQL&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yasincandev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yasincandev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasincandev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasincandev&label=Profile%20views&color=0e75b6&style=flat" alt="yasincandev" /> </p>
+ 
+ 
